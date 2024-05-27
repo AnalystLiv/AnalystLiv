@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Analyst Liv
 - 👀 I’m interested in environmental science, healthcare, and educational development
 - 🌱 I’m currently practicing AI art 
-- 💞️ I’m looking to collaborate on sales data analysis using Python
+- 💞️ I’m looking to collaborate on data science project using R
 - 📫 How to reach me ... analystliv@icloud.com
 - 😄 Pronouns: ... She/Her
 - ⚡ Fun fact: ... I love to swim in the sea but I've never been in a pool
