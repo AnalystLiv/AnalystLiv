@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Analyst Liv
 - 👀 I’m interested in environmental science, healthcare, and educational development
-- 🌱 I’m currently practicing AI art 
+- 🌱 I’m currently practicing SPSS
 - 💞️ I’m looking to collaborate on a project using R
 - 📫 How to reach me ... analystliv@icloud.com
 - 😄 Pronouns: ... She/Her
