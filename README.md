@@ -1,8 +1,5 @@
 - 👋 Hi, I’m Analyst Liv
 - 👀 I’m interested in environmental science, healthcare, and educational development
-- 🌱 I’m currently practicing R
-- 💞️ I’m looking to collaborate on a project using R
-- 😄 Pronouns: ... She/Her
 - ⚡ Fun fact: ... I love to swim in the sea but I've never been in a pool
 
 <!---
